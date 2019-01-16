@@ -1,0 +1,19 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "my first node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cool",
+    "app"
+  ],
+  "author": "Laine Gaubert",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
